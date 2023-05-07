@@ -1,0 +1,6 @@
+name: stack-demo
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Sample Python Pulumi stack used by the operator
